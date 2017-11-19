@@ -1,0 +1,23 @@
+{
+  "name": "stringedit",
+  "version": "1.0.0",
+  "description": "StringEdit.com - a site for doing simple string modifying things.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantheuber/stringedit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantheuber/stringedit/issues"
+  },
+  "homepage": "https://github.com/dantheuber/stringedit#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
